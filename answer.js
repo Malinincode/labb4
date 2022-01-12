@@ -127,7 +127,7 @@ dbwebb.assert("1.2", ANSWER, false);
 ANSWER = Isaac.presentationBirthYear(Isaac.presentationWithLastNameAndNationality());
 
 // I will now test your answer - change false to true to get a hint.
-dbwebb.assert("1.3", ANSWER, false);
+dbwebb.assert("1.3", ANSWER, true);
 
 /**
  * Exercise 1.4 (1 points)
